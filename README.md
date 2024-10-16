@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm a mechatronics engineering student getting into the world of data science and passionate about robotics and automation.
 
-<div id="Badges" align="center">
+<!-- <div id="Badges" align="center">
   <a bref="https://www.kaggle.com/nataliacelycallejas" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
       alt="Kaggle badge" />
@@ -12,7 +12,7 @@ I'm a mechatronics engineering student getting into the world of data science an
       alt="LinkedIn badge" />
   </a>
 </div>
-
+-->
 ***
 
 ### About me
