@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-I'm a mechatronics engineering student getting into the world of data science and passionate about robotics and automation.
+I'm a mechatronics engineering student getting into the world of data science and passionate about robotics and automation. Approaching pandas and sklearn.
 
 <!-- <div id="Badges" align="center">
   <a bref="https://www.kaggle.com/nataliacelycallejas" target="_blank">
